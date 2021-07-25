@@ -1,0 +1,35 @@
+h1{text-align: center;font-size: 700%;}
+body{background-color: skyblue;}
+h2{text-align: center;font-size: 250%; color:tomato;}
+h3{text-align: center; color:white;}
+p{font-size: 140%; color: darksalmon;}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;}
+.center{width: 80%;}
+.special{color: snow;}
+.new{color:#000000; font-size: 150%;}
+.first{font-size: 150%;}
+.right{color: brown;font-size: 250%;}
+
+* {margin: 2;
+    padding: 0;}
+    html, body{ height: 90%;}
+    
+    #circle {
+        min-height: 90%;}
+    
+    #main {
+        overflow: auto;
+        padding-bottom: 90px;
+    }
+    #footer {background-color: crimson;
+    position: relative;
+    height: 90px;
+    margin-top: -90px;
+    clear: both;
+    }
+.regis {color: cyan;}
+
+.oow {color: darkmagenta;}
